@@ -1,4 +1,4 @@
-# Data Professions Egyptian Market Analysis
+# Job Market Analysis of Data Professions in Egypt
 
 ## Overview:
 The data professions sector is rapidly expanding within the Egyptian job market. Despite this growth, there has been limited research and insufficient analysis in this area. This project aims to fill this gap by conducting a comprehensive study on job market trends and opportunities in four distinct data professions, namely: data analysis, data science, data engineering, and machine learning engineering. We have gathered data from the renowned job portal [Bayt.com](https://www.bayt.com) to explore various aspects, including the demand for each profession, top hiring companies, geographical distribution of opportunities, required skills, educational backgrounds, and more.
@@ -13,7 +13,7 @@ The raw data was cleaned and processed where data was transformed into a standar
 ## Data Analysis and Visualization:
 The processed dataset was subjected to comprehensive analysis using Pandas, exploring various aspects of the job market. Key statistics, trends, and patterns were identified. The findings were visually represented using Matplotlib, Seaborn, and other visualization libraries.
 
-## Main Results:
+## Main Findings:
 ![Demand per Profession](https://github.com/assemmkhalil/DataMarketAnalysis/assets/126206911/40c5ad21-54fe-4f10-856e-737e12046f67)
 ![Top Companies Hiring Data Analysts](https://github.com/assemmkhalil/DataMarketAnalysis/assets/126206911/07fb01c7-d22d-4a24-aaaf-21272da4c26f)
 ![Top Companies Hiring Data Scientists](https://github.com/assemmkhalil/DataMarketAnalysis/assets/126206911/8d89f94e-a425-40bc-8ec7-9a464e916c46)
@@ -39,4 +39,4 @@ The processed dataset was subjected to comprehensive analysis using Pandas, expl
 - Data Visualization: Familiarize yourself with Power BI and Tableau.
 - Big Data Skills: Acquire expertise in Apache Spark, Hadoop, and Kafka for big data processing roles.
 - Cloud Services: Master AWS due to its leading position, and consider Azure for a well-rounded skill set.
-- Consider Cairo: If possible, consider moving to Cairo, which has the most job opportunities in this field.
+- Consider Cairo: If possible, consider moving to the greater Cairo region, which has the most job opportunities in this field.
